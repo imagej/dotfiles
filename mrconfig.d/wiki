@@ -1,0 +1,2 @@
+[code/imagej/wiki.imagej.net]
+checkout = git clone mediawiki::http://wiki.imagej.net
