@@ -1,0 +1,8 @@
+# mr configuration file for ImageJ projects
+
+# Install myrepos on Mac OS X using Homebrew, or on Debian/Ubuntu using apt.
+
+# Reference this file from your toplevel ~/.mrconfig like this:
+# include = cat $CODE_BASE/imagej/dotfiles/mrconfig 2> /dev/null || true
+
+include = cat $CODE_BASE/imagej/dotfiles/mrconfig.d/* 2> /dev/null || true
