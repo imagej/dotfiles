@@ -4,6 +4,9 @@ checkout = git clone git://github.com/tferr/IJ-guide
 [code/imagej/ImageJA]
 checkout = git clone git://github.com/imagej/ImageJA
 
+[code/imagej/dotfiles]
+checkout = git clone git://github.com/imagej/dotfiles
+
 [code/imagej/ij1-patcher]
 checkout = git clone git://github.com/imagej/ij1-patcher
 
