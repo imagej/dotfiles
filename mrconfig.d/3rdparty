@@ -6,3 +6,6 @@ checkout = git clone git://github.com/mdoube/BoneJ
 
 [code/imagej/slideset]
 checkout = git clone git://github.com/bnanes/slideset
+
+[code/imagej/thunderstorm]
+checkout = git clone git://github.com/zitmen/thunderstorm
