@@ -52,9 +52,6 @@ checkout = git clone git://github.com/imagej/imagej-plugins-uploader-ssh
 [code/imagej/imagej-plugins-uploader-webdav]
 checkout = git clone git://github.com/imagej/imagej-plugins-uploader-webdav
 
-[code/imagej/presentations]
-checkout = git clone git://github.com/imagej/presentations
-
 [code/imagej/imagej-scripting]
 checkout = git clone git://github.com/imagej/imagej-scripting
 
@@ -93,6 +90,9 @@ checkout = git clone git://github.com/imagej/minimal-ij1-plugin
 
 [code/imagej/pom-imagej]
 checkout = git clone git://github.com/imagej/pom-imagej
+
+[code/imagej/presentations]
+checkout = git clone git://github.com/imagej/presentations
 
 [code/imagej/visad-plugin]
 checkout = git clone git://github.com/imagej/visad-plugin
