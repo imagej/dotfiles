@@ -17,7 +17,7 @@ checkout = git clone git://github.com/mdoube/BoneJ
 checkout = git clone git://github.com/tferr/IJ-guide
 
 [code/ij-stuff/pendant-drop]
-checkout = git clone https://gitlab.com/pendant-drop/pendant-drop
+checkout = git clone https://gitlab.com/pendant-drop/pendant-drop.git
 
 [code/ij-stuff/slideset]
 checkout = git clone git://github.com/bnanes/slideset
