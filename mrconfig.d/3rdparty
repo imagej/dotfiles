@@ -1,8 +1,8 @@
-[code/imagej/IJ-guide]
-checkout = git clone git://github.com/tferr/IJ-guide
-
 [code/imagej/BoneJ]
 checkout = git clone git://github.com/mdoube/BoneJ
+
+[code/imagej/IJ-guide]
+checkout = git clone git://github.com/tferr/IJ-guide
 
 [code/imagej/slideset]
 checkout = git clone git://github.com/bnanes/slideset
