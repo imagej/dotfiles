@@ -1,11 +1,11 @@
-[code/imagej/BoneJ]
+[code/ij-stuff/BoneJ]
 checkout = git clone git://github.com/mdoube/BoneJ
 
-[code/imagej/IJ-guide]
+[code/ij-stuff/IJ-guide]
 checkout = git clone git://github.com/tferr/IJ-guide
 
-[code/imagej/slideset]
+[code/ij-stuff/slideset]
 checkout = git clone git://github.com/bnanes/slideset
 
-[code/imagej/thunderstorm]
+[code/ij-stuff/thunderstorm]
 checkout = git clone git://github.com/zitmen/thunderstorm
