@@ -5,10 +5,10 @@ checkout = git clone git://github.com/Bio7/Bio7
 checkout = git clone git://github.com/Bio7/Bio7_Workshop
 
 [code/bio7/bio7-examples]
-checkout = git clone git://bitbucket.org/maustenfeld/bio7-examples
+checkout = git clone https://bitbucket.org/maustenfeld/bio7-examples
 
 [code/bio7/bio7-new]
-checkout = git clone git://bitbucket.org/maustenfeld/bio7-new
+checkout = git clone https://bitbucket.org/maustenfeld/bio7-new
 
 [code/ij-stuff/BoneJ]
 checkout = git clone git://github.com/mdoube/BoneJ
