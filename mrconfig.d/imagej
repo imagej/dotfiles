@@ -22,6 +22,9 @@ checkout = git clone git://github.com/imagej/imagej
 [code/imagej/imagej-common]
 checkout = git clone git://github.com/imagej/imagej-common
 
+[code/imagej/imagej-deprecated]
+checkout = git clone git://github.com/imagej/imagej-deprecated
+
 [code/imagej/imagej-itk]
 checkout = git clone git://github.com/imagej/imagej-itk
 

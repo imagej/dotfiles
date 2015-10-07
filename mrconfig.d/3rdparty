@@ -16,6 +16,12 @@ checkout = git clone git://github.com/mdoube/BoneJ
 [code/ij-stuff/IJ-guide]
 checkout = git clone git://github.com/tferr/IJ-guide
 
+[code/ij-stuff/JEX]
+checkout = git clone git://github.com/jaywarrick/JEX
+
+[code/ij-stuff/keller-lab-block-filetype]
+checkout = git clone https://bitbucket.org/fernandoamat/keller-lab-block-filetype
+
 [code/ij-stuff/pendant-drop]
 checkout = git clone https://gitlab.com/pendant-drop/pendant-drop.git
 
