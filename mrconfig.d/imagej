@@ -91,9 +91,6 @@ checkout = git clone git://github.com/imagej/imagej-usage
 [code/imagej/irc-bot]
 checkout = git clone git://github.com/imagej/irc-bot
 
-[code/imagej/matlab-plugins-in-imagej]
-checkout = git clone git://code.imagej.net/matlab-plugins-in-imagej
-
 [code/imagej/minimal-ij1-plugin]
 checkout = git clone git://github.com/imagej/minimal-ij1-plugin
 
