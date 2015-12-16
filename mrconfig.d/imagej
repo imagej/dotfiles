@@ -73,6 +73,9 @@ checkout = git clone git://github.com/imagej/imagej-search
 [code/imagej/imagej-server]
 checkout = git clone git://github.com/imagej/imagej-server
 
+[code/imagej/imagej-troubleshooting]
+checkout = git clone git://github.com/imagej/imagej-troubleshooting
+
 [code/imagej/imagej-tutorials]
 checkout = git clone git://github.com/imagej/imagej-tutorials
 
