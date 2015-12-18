@@ -19,6 +19,9 @@ checkout = git clone git://github.com/tferr/IJ-guide
 [code/ij-stuff/JEX]
 checkout = git clone git://github.com/jaywarrick/JEX
 
+[code/ij-stuff/active-cells-ij2]
+checkout = git clone git://github.com/ctrueden/active-cells-ij2
+
 [code/ij-stuff/imagejfx]
 checkout = git clone git://github.com/cmongis/imagejfx
 
