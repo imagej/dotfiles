@@ -64,9 +64,6 @@ checkout = git clone git://github.com/imagej/imagej-plugins-uploader-webdav
 [code/imagej/imagej-scripting]
 checkout = git clone git://github.com/imagej/imagej-scripting
 
-[code/imagej/imagej-scripting-cli]
-checkout = git clone git://github.com/imagej/imagej-scripting-cli
-
 [code/imagej/imagej-search]
 checkout = git clone git://github.com/imagej/imagej-search
 
