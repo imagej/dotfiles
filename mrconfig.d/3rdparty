@@ -22,6 +22,9 @@ checkout = git clone git://github.com/jaywarrick/JEX
 [code/ij-stuff/active-cells-ij2]
 checkout = git clone git://github.com/ctrueden/active-cells-ij2
 
+[code/ij-stuff/funimage.figure]
+checkout = git clone git://github.com/kephale/funimage.figure
+
 [code/ij-stuff/imagej-plugins-javafx]
 checkout = git clone git://github.com/ctrueden/imagej-plugins-javafx
 
