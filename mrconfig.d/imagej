@@ -52,6 +52,9 @@ checkout = git clone git://github.com/imagej/imagej-omero
 [code/imagej/imagej-ops]
 checkout = git clone git://github.com/imagej/imagej-ops
 
+[code/imagej/op-finder]
+checkout = git clone git://github.com/imagej/op-finder
+
 [code/imagej/imagej-plugins-commands]
 checkout = git clone git://github.com/imagej/imagej-plugins-commands
 
