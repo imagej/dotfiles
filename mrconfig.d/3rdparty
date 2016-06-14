@@ -25,6 +25,18 @@ checkout = git clone git://github.com/ctrueden/active-cells-ij2
 [code/ij-stuff/funimage.figure]
 checkout = git clone git://github.com/kephale/funimage.figure
 
+[code/ij-stuff/ijp-imageio]
+checkout = git clone git://github.com/ij-plugins/ijp-imageio
+
+[code/ij-stuff/ijp-toolkit]
+checkout = git clone git://github.com/ij-plugins/ijp-toolkit
+
+[code/ij-stuff/ijp-color]
+checkout = git clone git://github.com/ij-plugins/ijp-color
+
+[code/ij-stuff/ijp-toolkit2]
+checkout = git clone git://github.com/ij-plugins/ijp-toolkit2
+
 [code/ij-stuff/imagej-plugins-javafx]
 checkout = git clone git://github.com/ctrueden/imagej-plugins-javafx
 
