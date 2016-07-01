@@ -1,0 +1,14 @@
+[code/mirrors/bioimagexd]
+checkout = git clone git://git.imagej.net/bioimagexd
+
+[code/mirrors/mipav]
+checkout = git clone git://git.imagej.net/mipav
+
+[code/mirrors/scripting]
+checkout = git clone git://git.imagej.net/scripting
+
+[code/mirrors/vaa3d]
+checkout = git clone git://git.imagej.net/vaa3d
+
+[code/mirrors/weka]
+checkout = git clone git://git.imagej.net/weka
