@@ -13,6 +13,9 @@ checkout = git clone https://bitbucket.org/maustenfeld/bio7-new
 [code/ij-stuff/BoneJ]
 checkout = git clone git://github.com/mdoube/BoneJ
 
+[code/ij-stuff/IJ-OpenCV]
+checkout = git clone git://github.com/joheras/IJ-OpenCV
+
 [code/ij-stuff/IJ-guide]
 checkout = git clone git://github.com/tferr/IJ-guide
 
@@ -22,11 +25,17 @@ checkout = git clone git://github.com/jaywarrick/JEX
 [code/ij-stuff/PHANTAST-FIJI]
 checkout = git clone git://github.com/nicjac/PHANTAST-FIJI
 
+[code/ij-stuff/ThreeDViewer]
+checkout = git clone git://github.com/kephale/ThreeDViewer
+
 [code/ij-stuff/active-cells-ij2]
 checkout = git clone git://github.com/ctrueden/active-cells-ij2
 
 [code/ij-stuff/funimage.figure]
 checkout = git clone git://github.com/kephale/funimage.figure
+
+[code/ij-stuff/ijp-frc]
+checkout = git clone https://c4science.ch/diffusion/988/ijp-frc.git
 
 [code/ij-stuff/ijp-imageio]
 checkout = git clone git://github.com/ij-plugins/ijp-imageio
@@ -48,6 +57,9 @@ checkout = git clone git://github.com/cmongis/imagejfx
 
 [code/ij-stuff/keller-lab-block-filetype]
 checkout = git clone https://bitbucket.org/fernandoamat/keller-lab-block-filetype
+
+[code/ij-stuff/mcib3d-core]
+checkout = git clone git://github.com/mcib3d/mcib3d-core
 
 [code/ij-stuff/pendent-drop]
 checkout = git clone git://github.com/adaerr/pendent-drop
