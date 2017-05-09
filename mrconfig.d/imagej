@@ -106,9 +106,6 @@ checkout = git clone git://github.com/imagej/imagej-usage
 [code/imagej/irc-bot]
 checkout = git clone git://github.com/imagej/irc-bot
 
-[code/imagej/pom-imagej]
-checkout = git clone git://github.com/imagej/pom-imagej
-
 [code/imagej/presentations]
 checkout = git clone git://github.com/imagej/presentations
 
