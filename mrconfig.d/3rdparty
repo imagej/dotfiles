@@ -40,6 +40,9 @@ checkout = git clone git://github.com/ij-plugins/ijp-color
 [code/ij-stuff/ijp-toolkit2]
 checkout = git clone git://github.com/ij-plugins/ijp-toolkit2
 
+[code/ij-stuff/imagej-ops-tiling]
+checkout = git clone git://github.com/MarcelWiedenmann/imagej-ops-tiling
+
 [code/ij-stuff/imagej-plugins-javafx]
 checkout = git clone git://github.com/ctrueden/imagej-plugins-javafx
 
