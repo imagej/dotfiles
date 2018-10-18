@@ -1,0 +1,124 @@
+# Unofficial and downstream components that use or build upon ImageJ.
+
+[code/ij-stuff/CircleSkinner]
+checkout = git clone git://github.com/tinevez/CircleSkinner
+
+[code/ij-stuff/IJ-OpenCV]
+checkout = git clone git://github.com/joheras/IJ-OpenCV
+
+[code/ij-stuff/IJ-guide]
+checkout = git clone git://github.com/tferr/IJ-guide
+
+[code/ij-stuff/MorphoLibJ]
+checkout = git clone git://github.com/ijpb/MorphoLibJ
+
+[code/ij-stuff/PHANTAST-FIJI]
+checkout = git clone git://github.com/nicjac/PHANTAST-FIJI
+
+[code/ij-stuff/FilamentDetector]
+checkout = git clone git://github.com/hadim/FilamentDetector
+
+[code/ij-stuff/Image_Synthesizer]
+checkout = git clone git://github.com/IamMM/Image_Synthesizer
+
+[code/ij-stuff/Interactive-H-Watershed]
+checkout = git clone git://github.com/mpicbg-scicomp/Interactive-H-Watershed
+
+[code/ij-stuff/Kappa]
+checkout = git clone git://github.com/brouhardlab/Kappa
+
+[code/ij-stuff/KinemaJ]
+checkout = git clone git://github.com/nstifani/KinemaJ
+
+[code/ij-stuff/MoMA]
+checkout = git clone git://github.com/fjug/MoMA
+
+[code/ij-stuff/SME]
+checkout = git clone git://github.com/biocompibens/SME
+
+[code/ij-stuff/Scripts]
+checkout = git clone git://github.com/tferr/Scripts
+
+[code/ij-stuff/TrackMate-extras]
+checkout = git clone git://github.com/tinevez/TrackMate-extras
+
+[code/ij-stuff/active-cells-ij2]
+checkout = git clone git://github.com/ctrueden/active-cells-ij2
+
+[code/ij-stuff/antibiogramj]
+checkout = git clone git://git.code.sf.net/p/antibiogramj/code
+
+[code/ij-stuff/colocalization-influences]
+checkout = git clone git://github.com/bic-kn/colocalization-influences
+
+[code/ij-stuff/deepnetj]
+checkout = git clone git://github.com/Bergwerf/deepnetj
+
+[code/ij-stuff/fmi-trackmate-addons]
+checkout = git clone git://github.com/fmi-faim/fmi-trackmate-addons
+
+[code/ij-stuff/fun.imagej]
+checkout = git clone git://github.com/kephale/fun.imagej
+
+[code/ij-stuff/funimage.figure]
+checkout = git clone git://github.com/kephale/funimage.figure
+
+[code/ij-stuff/hIPNAT]
+checkout = git clone git://github.com/tferr/hIPNAT
+
+[code/ij-stuff/ij-ridgedetection]
+checkout = git clone git://github.com/thorstenwagner/ij-ridgedetection
+
+[code/ij-stuff/ijp-color]
+checkout = git clone git://github.com/ij-plugins/ijp-color
+
+[code/ij-stuff/ijp-frc]
+checkout = git clone https://c4science.ch/diffusion/988/ijp-frc.git
+
+[code/ij-stuff/ijp-imageio]
+checkout = git clone git://github.com/ij-plugins/ijp-imageio
+
+[code/ij-stuff/ijp-toolkit]
+checkout = git clone git://github.com/ij-plugins/ijp-toolkit
+
+[code/ij-stuff/imagej-jython-package]
+checkout = git clone git://github.com/m-entrup/imagej-jython-package
+
+[code/ij-stuff/imagej-ops-menu]
+checkout = git clone git://github.com/haesleinhuepf/imagej-ops-menu
+
+[code/ij-stuff/imagej-ops-tiling]
+checkout = git clone git://github.com/MarcelWiedenmann/imagej-ops-tiling
+
+[code/ij-stuff/imagej-plot-service]
+checkout = git clone git://github.com/maarzt/imagej-plot-service
+
+[code/ij-stuff/imagej-plugins-javafx]
+checkout = git clone git://github.com/ctrueden/imagej-plugins-javafx
+
+[code/ij-stuff/imagejfx]
+checkout = git clone git://github.com/cmongis/imagejfx
+
+[code/ij-stuff/jex]
+checkout = git clone git://github.com/jaywarrick/JEX
+
+[code/ij-stuff/jfilament]
+checkout = git clone git://github.com/odinsbane/jfilament
+
+[code/ij-stuff/keller-lab-block-filetype]
+checkout = git clone https://bitbucket.org/fernandoamat/keller-lab-block-filetype
+
+[code/ij-stuff/legacy-update-bug-mcve]
+checkout = git clone git://github.com/stelfrich/legacy-update-bug-mcve
+
+[code/ij-stuff/mcib3d-core]
+checkout = git clone git://github.com/mcib3d/mcib3d-core
+
+[code/ij-stuff/pendent-drop]
+checkout = git clone git://github.com/adaerr/pendent-drop
+
+[code/ij-stuff/slideset]
+checkout = git clone git://github.com/bnanes/slideset
+
+[code/ij-stuff/thunderstorm]
+checkout = git clone git://github.com/zitmen/thunderstorm
