@@ -1,8 +1,135 @@
 # mr configuration file for ImageJ projects
 
-# Install myrepos on Mac OS X using Homebrew, or on Debian/Ubuntu using apt.
+# Install myrepos on macOS using Homebrew, or on Ubuntu using apt.
 
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/imagej/dotfiles/mrconfig 2> /dev/null || true
 
-include = cat $CODE_BASE/imagej/dotfiles/mrconfig.d/* 2> /dev/null || true
+[code/imagej/ImageJA]
+checkout = git clone git://github.com/imagej/ImageJA
+
+[code/imagej/chocolatey-packages]
+checkout = git clone git://github.com/imagej/chocolatey-packages
+
+[code/imagej/conference]
+checkout = git clone git://github.com/imagej/conference
+
+[code/imagej/dotfiles]
+checkout = git clone git://github.com/imagej/dotfiles
+
+[code/imagej/example-imagej-command]
+checkout = git clone git://github.com/imagej/example-imagej-command
+
+[code/imagej/example-legacy-plugin]
+checkout = git clone git://github.com/imagej/example-legacy-plugin
+
+[code/imagej/ij1-patcher]
+checkout = git clone git://github.com/imagej/ij1-patcher
+
+[code/imagej/ij1-tests]
+checkout = git clone git://github.com/imagej/ij1-tests
+
+[code/imagej/imagej.github.io]
+checkout = git clone git://github.com/imagej/imagej.github.io
+
+[code/imagej/imagej1]
+checkout = git clone git://github.com/imagej/imagej1
+
+[code/imagej/imagej]
+checkout = git clone git://github.com/imagej/imagej
+
+[code/imagej/imagej-common]
+checkout = git clone git://github.com/imagej/imagej-common
+
+[code/imagej/imagej-deprecated]
+checkout = git clone git://github.com/imagej/imagej-deprecated
+
+[code/imagej/imagej-itk]
+checkout = git clone git://github.com/imagej/imagej-itk
+
+[code/imagej/imagej-javadoc]
+checkout = git clone git://github.com/imagej/imagej-javadoc
+
+[code/imagej/imagej-launcher]
+checkout = git clone git://github.com/imagej/imagej-launcher
+
+[code/imagej/imagej-legacy]
+checkout = git clone git://github.com/imagej/imagej-legacy
+
+[code/imagej/imagej-matlab]
+checkout = git clone git://github.com/imagej/imagej-matlab
+
+[code/imagej/imagej-maven-plugin]
+checkout = git clone git://github.com/imagej/imagej-maven-plugin
+
+[code/imagej/imagej-mesh]
+checkout = git clone git://github.com/imagej/imagej-mesh
+
+[code/imagej/imagej-notebook]
+checkout = git clone git://github.com/imagej/imagej-notebook
+
+[code/imagej/imagej-omero]
+checkout = git clone git://github.com/imagej/imagej-omero
+
+[code/imagej/imagej-ops]
+checkout = git clone git://github.com/imagej/imagej-ops
+
+[code/imagej/op-finder]
+checkout = git clone git://github.com/imagej/op-finder
+
+[code/imagej/imagej-plugins-commands]
+checkout = git clone git://github.com/imagej/imagej-plugins-commands
+
+[code/imagej/imagej-plugins-tools]
+checkout = git clone git://github.com/imagej/imagej-plugins-tools
+
+[code/imagej/imagej-plugins-uploader-ssh]
+checkout = git clone git://github.com/imagej/imagej-plugins-uploader-ssh
+
+[code/imagej/imagej-plugins-uploader-webdav]
+checkout = git clone git://github.com/imagej/imagej-plugins-uploader-webdav
+
+[code/imagej/imagej-scripting]
+checkout = git clone git://github.com/imagej/imagej-scripting
+
+[code/imagej/imagej-server]
+checkout = git clone git://github.com/imagej/imagej-server
+
+[code/imagej/imagej-troubleshooting]
+checkout = git clone git://github.com/imagej/imagej-troubleshooting
+
+[code/imagej/imagej-ui-awt]
+checkout = git clone git://github.com/imagej/imagej-ui-awt
+
+[code/imagej/imagej-ui-swing]
+checkout = git clone git://github.com/imagej/imagej-ui-swing
+
+[code/imagej/imagej-updater]
+checkout = git clone git://github.com/imagej/imagej-updater
+
+[code/imagej/imagej-usage]
+checkout = git clone git://github.com/imagej/imagej-usage
+
+[code/imagej/irc-bot]
+checkout = git clone git://github.com/imagej/irc-bot
+
+[code/imagej/ops-experiments]
+checkout = git clone git://github.com/imagej/ops-experiments
+
+[code/imagej/presentations]
+checkout = git clone git://github.com/imagej/presentations
+
+[code/imagej/search]
+checkout = git clone git://github.com/imagej/search
+
+[code/imagej/trackmate-ops]
+checkout = git clone git://github.com/imagej/trackmate-ops
+
+[code/imagej/tutorials]
+checkout = git clone git://github.com/imagej/tutorials
+
+[code/imagej/visad-plugin]
+checkout = git clone git://github.com/imagej/visad-plugin
+
+[code/imagej/workshops]
+checkout = git clone git://github.com/imagej/workshops
