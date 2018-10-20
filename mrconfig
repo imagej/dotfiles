@@ -20,8 +20,14 @@ checkout = git clone git://github.com/imagej/dotfiles
 [code/imagej/example-imagej-command]
 checkout = git clone git://github.com/imagej/example-imagej-command
 
+[code/imagej/example-imagej-command-kotlin]
+checkout = git clone git://github.com/imagej/example-imagej-command-kotlin
+
 [code/imagej/example-legacy-plugin]
 checkout = git clone git://github.com/imagej/example-legacy-plugin
+
+[code/imagej/example-script-collection]
+checkout = git clone git://github.com/imagej/example-script-collection
 
 [code/imagej/ij1-patcher]
 checkout = git clone git://github.com/imagej/ij1-patcher
@@ -32,11 +38,17 @@ checkout = git clone git://github.com/imagej/ij1-tests
 [code/imagej/imagej.github.io]
 checkout = git clone git://github.com/imagej/imagej.github.io
 
+[code/imagej/imagej.py]
+checkout = git clone git://github.com/imagej/imagej.py
+
 [code/imagej/imagej1]
 checkout = git clone git://github.com/imagej/imagej1
 
 [code/imagej/imagej]
 checkout = git clone git://github.com/imagej/imagej
+
+[code/imagej/imagej-command-archetype]
+checkout = git clone git://github.com/imagej/imagej-command-archetype
 
 [code/imagej/imagej-common]
 checkout = git clone git://github.com/imagej/imagej-common
@@ -65,6 +77,12 @@ checkout = git clone git://github.com/imagej/imagej-maven-plugin
 [code/imagej/imagej-mesh]
 checkout = git clone git://github.com/imagej/imagej-mesh
 
+[code/imagej/imagej-mesh-io]
+checkout = git clone git://github.com/imagej/imagej-mesh-io
+
+[code/imagej/imagej-node]
+checkout = git clone git://github.com/imagej/imagej-node
+
 [code/imagej/imagej-notebook]
 checkout = git clone git://github.com/imagej/imagej-notebook
 
@@ -76,6 +94,18 @@ checkout = git clone git://github.com/imagej/imagej-ops
 
 [code/imagej/op-finder]
 checkout = git clone git://github.com/imagej/op-finder
+
+[code/imagej/imagej-electron-app]
+checkout = git clone git://github.com/imagej/imagej-electron-app
+
+[code/imagej/imagej-omero]
+checkout = git clone git://github.com/imagej/imagej-omero
+
+[code/imagej/imagej-omero-legacy]
+checkout = git clone git://github.com/imagej/imagej-omero-legacy
+
+[code/imagej/imagej-plugins-batch]
+checkout = git clone git://github.com/imagej/imagej-plugins-batch
 
 [code/imagej/imagej-plugins-commands]
 checkout = git clone git://github.com/imagej/imagej-plugins-commands
@@ -110,8 +140,17 @@ checkout = git clone git://github.com/imagej/imagej-updater
 [code/imagej/imagej-usage]
 checkout = git clone git://github.com/imagej/imagej-usage
 
+[code/imagej/imagej2-manuscript-2017]
+checkout = git clone git://github.com/imagej/imagej2-manuscript-2017
+
 [code/imagej/irc-bot]
 checkout = git clone git://github.com/imagej/irc-bot
+
+[code/imagej/janelia-hackathon-2016]
+checkout = git clone git://github.com/imagej/janelia-hackathon-2016
+
+[code/imagej/mediawiki]
+checkout = git clone git://github.com/imagej/mediawiki
 
 [code/imagej/ops-experiments]
 checkout = git clone git://github.com/imagej/ops-experiments
