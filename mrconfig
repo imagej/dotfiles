@@ -146,6 +146,9 @@ checkout = git clone git://github.com/imagej/irc-bot
 [code/imagej/janelia-hackathon-2016]
 checkout = git clone git://github.com/imagej/janelia-hackathon-2016
 
+[code/imagej/list-of-update-sites]
+checkout = git clone git://github.com/imagej/list-of-update-sites
+
 [code/imagej/mediawiki]
 checkout = git clone git://github.com/imagej/mediawiki
 
