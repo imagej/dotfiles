@@ -164,9 +164,6 @@ checkout = git clone git://github.com/imagej/pyimagej
 [code/imagej/search]
 checkout = git clone git://github.com/imagej/search
 
-[code/imagej/trackmate-ops]
-checkout = git clone git://github.com/imagej/trackmate-ops
-
 [code/imagej/tutorials]
 checkout = git clone git://github.com/imagej/tutorials
 
