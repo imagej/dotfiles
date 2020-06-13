@@ -29,6 +29,9 @@ checkout = git clone git://github.com/imagej/example-legacy-plugin
 [code/imagej/example-script-collection]
 checkout = git clone git://github.com/imagej/example-script-collection
 
+[code/imagej/ij1-builds]
+checkout = git clone git://github.com/imagej/ij1-builds
+
 [code/imagej/ij1-patcher]
 checkout = git clone git://github.com/imagej/ij1-patcher
 
@@ -43,6 +46,9 @@ checkout = git clone git://github.com/imagej/imagej1
 
 [code/imagej/imagej]
 checkout = git clone git://github.com/imagej/imagej
+
+[code/imagej/imagejdocu]
+checkout = git clone git://github.com/imagej/imagejdocu
 
 [code/imagej/imagej-command-archetype]
 checkout = git clone git://github.com/imagej/imagej-command-archetype
@@ -85,6 +91,9 @@ checkout = git clone git://github.com/imagej/imagej-notebook
 
 [code/imagej/imagej-omero]
 checkout = git clone git://github.com/imagej/imagej-omero
+
+[code/imagej/imagej-opencv]
+checkout = git clone git://github.com/imagej/imagej-opencv
 
 [code/imagej/imagej-ops]
 checkout = git clone git://github.com/imagej/imagej-ops
@@ -163,6 +172,9 @@ checkout = git clone git://github.com/imagej/pyimagej
 
 [code/imagej/search]
 checkout = git clone git://github.com/imagej/search
+
+[code/imagej/tickets]
+checkout = git clone git://github.com/imagej/tickets
 
 [code/imagej/tutorials]
 checkout = git clone git://github.com/imagej/tutorials
