@@ -17,6 +17,9 @@ checkout = git clone git://github.com/imagej/conference
 [code/imagej/dotfiles]
 checkout = git clone git://github.com/imagej/dotfiles
 
+[code/imagej/example-android-app]
+checkout = git clone git://github.com/imagej/example-android-app
+
 [code/imagej/example-imagej-command]
 checkout = git clone git://github.com/imagej/example-imagej-command
 
@@ -82,6 +85,9 @@ checkout = git clone git://github.com/imagej/imagej-mesh
 
 [code/imagej/imagej-mesh-io]
 checkout = git clone git://github.com/imagej/imagej-mesh-io
+
+[code/imagej/imagej-modelzoo]
+checkout = git clone git://github.com/imagej/imagej-modelzoo
 
 [code/imagej/imagej-node]
 checkout = git clone git://github.com/imagej/imagej-node
@@ -157,6 +163,9 @@ checkout = git clone git://github.com/imagej/janelia-hackathon-2016
 
 [code/imagej/list-of-update-sites]
 checkout = git clone git://github.com/imagej/list-of-update-sites
+
+[code/imagej/mbf]
+checkout = git clone git://github.com/imagej/mbf
 
 [code/imagej/mediawiki]
 checkout = git clone git://github.com/imagej/mediawiki
