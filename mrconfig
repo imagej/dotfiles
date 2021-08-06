@@ -47,8 +47,8 @@ checkout = git clone git://github.com/imagej/imagej.github.io
 [code/imagej/imagej1]
 checkout = git clone git://github.com/imagej/imagej1
 
-[code/imagej/imagej]
-checkout = git clone git://github.com/imagej/imagej
+[code/imagej/imagej2]
+checkout = git clone git://github.com/imagej/imagej2
 
 [code/imagej/imagejdocu]
 checkout = git clone git://github.com/imagej/imagejdocu
