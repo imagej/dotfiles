@@ -152,12 +152,6 @@ checkout = git clone git://github.com/imagej/imagej-ui-swing
 [code/imagej/imagej-updater]
 checkout = git clone git://github.com/imagej/imagej-updater
 
-[code/imagej/imagej2-manuscript-2017]
-checkout = git clone git://github.com/imagej/imagej2-manuscript-2017
-
-[code/imagej/irc-bot]
-checkout = git clone git://github.com/imagej/irc-bot
-
 [code/imagej/janelia-hackathon-2016]
 checkout = git clone git://github.com/imagej/janelia-hackathon-2016
 
@@ -166,9 +160,6 @@ checkout = git clone git://github.com/imagej/list-of-update-sites
 
 [code/imagej/mbf]
 checkout = git clone git://github.com/imagej/mbf
-
-[code/imagej/mediawiki]
-checkout = git clone git://github.com/imagej/mediawiki
 
 [code/imagej/ops-experiments]
 checkout = git clone git://github.com/imagej/ops-experiments
@@ -181,9 +172,6 @@ checkout = git clone git://github.com/imagej/pyimagej
 
 [code/imagej/search]
 checkout = git clone git://github.com/imagej/search
-
-[code/imagej/tickets]
-checkout = git clone git://github.com/imagej/tickets
 
 [code/imagej/tutorials]
 checkout = git clone git://github.com/imagej/tutorials
