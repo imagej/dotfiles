@@ -65,9 +65,6 @@ checkout = git clone git://github.com/imagej/imagej-deprecated
 [code/imagej/imagej-itk]
 checkout = git clone git://github.com/imagej/imagej-itk
 
-[code/imagej/imagej-javadoc]
-checkout = git clone git://github.com/imagej/imagej-javadoc
-
 [code/imagej/imagej-launcher]
 checkout = git clone git://github.com/imagej/imagej-launcher
 
@@ -181,3 +178,6 @@ checkout = git clone git://github.com/imagej/visad-plugin
 
 [code/imagej/workshops]
 checkout = git clone git://github.com/imagej/workshops
+
+[code/javadoc/imagej-javadoc]
+checkout = git clone git://github.com/imagej/imagej-javadoc
