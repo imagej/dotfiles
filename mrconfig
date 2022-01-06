@@ -20,11 +20,11 @@ checkout = git clone git@github.com:imagej/dotfiles
 [code/imagej/example-android-app]
 checkout = git clone git@github.com:imagej/example-android-app
 
-[code/imagej/example-imagej-command]
-checkout = git clone git@github.com:imagej/example-imagej-command
+[code/imagej/example-imagej2-command]
+checkout = git clone git@github.com:imagej/example-imagej2-command
 
-[code/imagej/example-imagej-command-kotlin]
-checkout = git clone git@github.com:imagej/example-imagej-command-kotlin
+[code/imagej/example-imagej2-command-kotlin]
+checkout = git clone git@github.com:imagej/example-imagej2-command-kotlin
 
 [code/imagej/example-legacy-plugin]
 checkout = git clone git@github.com:imagej/example-legacy-plugin
