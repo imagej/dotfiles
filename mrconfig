@@ -172,6 +172,3 @@ checkout = git clone git@github.com:imagej/tutorials
 
 [code/imagej/workshops]
 checkout = git clone git@github.com:imagej/workshops
-
-[code/javadoc/imagej-javadoc]
-checkout = git clone git@github.com:imagej/imagej-javadoc
