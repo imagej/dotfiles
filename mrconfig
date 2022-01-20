@@ -5,8 +5,8 @@
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/imagej/dotfiles/mrconfig 2> /dev/null || true
 
-[code/imagej/ImageJA]
-checkout = git clone git@github.com:imagej/ImageJA
+[code/imagej/ImageJ]
+checkout = git clone git@github.com:imagej/ImageJ
 
 [code/imagej/chocolatey-packages]
 checkout = git clone git@github.com:imagej/chocolatey-packages
@@ -32,20 +32,11 @@ checkout = git clone git@github.com:imagej/example-legacy-plugin
 [code/imagej/example-script-collection]
 checkout = git clone git@github.com:imagej/example-script-collection
 
-[code/imagej/ij1-builds]
-checkout = git clone git@github.com:imagej/ij1-builds
-
 [code/imagej/ij1-patcher]
 checkout = git clone git@github.com:imagej/ij1-patcher
 
-[code/imagej/ij1-tests]
-checkout = git clone git@github.com:imagej/ij1-tests
-
 [code/imagej/imagej.github.io]
 checkout = git clone git@github.com:imagej/imagej.github.io
-
-[code/imagej/imagej1]
-checkout = git clone git@github.com:imagej/imagej1
 
 [code/imagej/imagej2]
 checkout = git clone git@github.com:imagej/imagej2
