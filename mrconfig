@@ -65,9 +65,6 @@ checkout = git clone git@github.com:imagej/imagej-legacy
 [code/imagej/imagej-matlab]
 checkout = git clone git@github.com:imagej/imagej-matlab
 
-[code/imagej/imagej-maven-plugin]
-checkout = git clone git@github.com:imagej/imagej-maven-plugin
-
 [code/imagej/imagej-mesh]
 checkout = git clone git@github.com:imagej/imagej-mesh
 
