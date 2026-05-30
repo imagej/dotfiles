@@ -5,6 +5,9 @@
 # Reference this file from your toplevel ~/.mrconfig like this:
 # include = cat $CODE_BASE/imagej/dotfiles/mrconfig 2> /dev/null || true
 
+[code/imagej/AstroImageJ]
+checkout = git clone git@github.com:AstroImageJ/astroimagej
+
 [code/imagej/ImageJ]
 checkout = git clone git@github.com:imagej/ImageJ
 
